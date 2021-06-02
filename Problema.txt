@@ -1,0 +1,12 @@
+Problema barras de inox.
+
+O problema consiste em diminuir a sobra/perda de barras de inox,
+ao corta-las em tamanhos menores, na montagem de um corrimão.
+O objetivo do programa é calcular quantas barras, e quais os tamanhos
+necessários para realizar os cortes, afim de obter a menor perda possível.
+
+Entrada: Tamanhos do cortes necessários
+Saída:'Número de barras'
+      'Medidas de cortes'
+      'Aproveitamento de cada barra'
+      'Sobra de cada barra': 
